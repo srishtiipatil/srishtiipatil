@@ -22,8 +22,8 @@ I'm Currently pursuing a **Master’s in Information Technology & Analytics** at
 
 
 ### Connect with Me  
-**Email:** patilsrishti19@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/srishti-patil-1b00b4123/  
-**Portfolio:** https://srishtiipatil.github.io/Portfolio/ 
+🔗**Email:** patilsrishti19@gmail.com 
+🔗**LinkedIn:** https://www.linkedin.com/in/srishti-patil-1b00b4123/  
+🔗**Portfolio:** https://srishtiipatil.github.io/Portfolio/ 
 
 

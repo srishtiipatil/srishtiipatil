@@ -6,3 +6,24 @@ I'm Currently pursuing a **Master’s in Information Technology & Analytics** at
 
 **Currently Seeking**: Internship opportunities in **Data Analytics, Business Intelligence, and Consulting**, where I can apply my analytical skills and technical expertise to drive business impact.
 
+## Skills & Tools  
+
+- **Programming & Databases:** Python, R, SQL (MySQL, PostgreSQL)  
+- **Machine Learning & AI:** Scikit-Learn, TensorFlow, NLP (NLTK)  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Big Data & Cloud:** AWS, Google Cloud  
+- **Web & Development:** HTML5, CSS, JavaScript  
+- **Other:** Git, Jupyter Notebook, Anaconda, Agile methodologies  
+
+## Currently Learning  
+**Advanced BI & Dashboarding Techniques** for data storytelling  
+**Model Deployment & MLOps** to streamline ML workflows  
+**Product Analytics** for data-driven business decisions  
+
+
+### Connect with Me  
+**Email:** srishti.patil@example.com  
+**LinkedIn:** [linkedin.com/in/srishti-patil](https://linkedin.com/in/srishti-patil)  
+**Portfolio:** [srishti-portfolio.com](https://srishti-portfolio.com)  
+
+
